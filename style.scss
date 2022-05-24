@@ -417,7 +417,7 @@ a[href^="#fnref:"] {
 .masthead {
   display: flex;
   align-items: baseline;
-  padding: 20px 0;
+  padding: 20px 0 10px;
   border-bottom: 01px solid $lightGray;
 
   @include mobile {
