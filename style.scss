@@ -416,7 +416,7 @@ a[href^="#fnref:"] {
 
 .masthead {
   display: flex;
-  // align-items: center;
+  align-items: baseline;
   padding: 20px 0;
   border-bottom: 01px solid $lightGray;
 
@@ -580,8 +580,8 @@ a.nav-menu-item:focus {
 
 .wrapper-footer {
   margin-top: 30px;
-  border-top: 01px solid #ddd;
-  border-bottom: 01px solid #ddd;
+  // border-top: 01px solid #ddd;
+  // border-bottom: 01px solid #ddd;
   background-color: $lightGray;
 }
 
