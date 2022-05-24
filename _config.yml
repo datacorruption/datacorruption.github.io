@@ -6,13 +6,13 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Hyperaccelerando
+title: /assets/image/hyperaccelerando-logo.png
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: Attempts at interfacing with reality.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /assets/image/hyperaccelerando-logo.png
+avatar: /assets/image/hyperaccelerando-avatar.png
 
 #
 # Flags below are optional
