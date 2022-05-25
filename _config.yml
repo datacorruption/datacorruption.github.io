@@ -41,21 +41,26 @@ navigation_links:
 
 # Footer icons
 footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
 
   - title: Twitter
     url: https://twitter.com/Nullsleep
-    icon: fa fa-twitter-square
+    icon: fa fa-twitter
 
   - title: Instagram
     url: https://instagram.com/Nullsleep
-    icon: fa fa-instagram-square
+    icon: fa fa-instagram
 
-  - title: GitHub
-    url: https://github.com/datacorruption
-    icon: fa fa-github-square
+  - title: Bandcamp
+    url: https://nullsleep.bandcamp.com
+    icon: fa fa-bandcamp
+
+  - title: Feed
+    url: feed.xml
+    icon: fa fa-rss
+
+  # - title: GitHub
+  #   url: https://github.com/datacorruption
+  #   icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
 copyright: ""
