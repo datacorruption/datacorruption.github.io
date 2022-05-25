@@ -417,7 +417,7 @@ a[href^="#fnref:"] {
 .masthead {
   display: flex;
   align-items: baseline;
-  padding: 20px 0;
+  padding: 20px 0 0;
   border-bottom: 01px solid #101010;
 
   @include mobile {
@@ -586,7 +586,7 @@ a.nav-menu-item:focus {
 }
 
 footer {
-  padding: 10px 0;
+  padding: 10px 0 0;
   text-align: center;
 
   .social-icons {
