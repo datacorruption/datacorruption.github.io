@@ -49,6 +49,10 @@ footer_links:
     url: https://twitter.com/Nullsleep
     icon: fa fa-twitter-square
 
+  - title: Instagram
+    url: https://instagram.com/Nullsleep
+    icon: fa fa-instagram-square
+
   - title: GitHub
     url: https://github.com/datacorruption
     icon: fa fa-github-square
