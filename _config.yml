@@ -6,7 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: /assets/image/hyperaccelerando-logo.png
+title: Hyperaccelerando
+
+# Logo of your site (displayed in the header)
+logo: /assets/image/hyperaccelerando-logo.png
 
 # Short bio or description (displayed in the header)
 description: Reality Engineering Research Institute 
