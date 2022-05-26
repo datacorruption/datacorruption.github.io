@@ -4,19 +4,17 @@ title: About
 permalink: /about
 ---
 
-##### hyper
-adjective
-hy·​per | \ ˈhī-pər  \
-1: above : beyond : SUPER-
-2a: excessively
-b: excessive
-3: that is or exists in a space of more than three dimensions
-4: bridging points within an entity (such as a database or network) nonsequentially
+#### HYPER
+*adjective*  
+hy·​per | \ ˈhī-pər  \  
+1: excessive  
+2: existing in a space of more than three dimensions  
+3: bridging points within an entity (such as a database or network) nonsequentially
 
-##### accelerando
-adjective
-ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/
-1: gradually increasing in speed.
+#### ACCELERANDO
+*noun*  
+ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/  
+1: a gradual increase in speed
 
 My name is Jeremiah, you may know me as Nullsleep.
 
