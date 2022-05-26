@@ -18,6 +18,4 @@ permalink: /about
 
 A space to document my work and thoughts outside of social media.
 
-This is me ↴
-
 ![nullsleep-photo](/assets/image/about/nullsleep-photo-promo.jpg)
