@@ -6,14 +6,16 @@ permalink: /about
 
 > #### HYPER
 > _adjective_<br>
-> hy·​per | \ ˈhī-pər  \  
-> 1: excessive  
-> 2: existing in a space of more than three dimensions  
+> hy·​per | \ ˈhī-pər  \<br>
+> <br>
+> 1: excessive<br>
+> 2: existing in a space of more than three dimensions<br>
 > 3: bridging points within an entity (such as a database or network) nonsequentially
 
 > #### ACCELERANDO
 > _noun_<br>
-> ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/  
+> <br>
+> ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/<br>
 > 1: a gradual increase in speed
 
 My name is Jeremiah, you may know me as Nullsleep.
