@@ -16,6 +16,6 @@ permalink: /about
 > ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/<br>
 > _1: a gradual increase in speed_
 
-A space to document my work and thoughts outside of social media.
+This is a space to document my work and thoughts outside of social media.
 
 ![nullsleep-photo](/assets/image/about/nullsleep-photo-promo.jpg)
