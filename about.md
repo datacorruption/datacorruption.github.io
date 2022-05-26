@@ -4,19 +4,21 @@ title: About
 permalink: /about
 ---
 
-> #### HYPER
-> _adjective_<br>
-> hy·​per | \ ˈhī-pər  \<br>
-> <br>
-> 1: excessive<br>
-> 2: existing in a space of more than three dimensions<br>
-> 3: bridging points within an entity (such as a database or network) nonsequentially
+#### HYPER
 
-> #### ACCELERANDO
-> _noun_<br>
+> adjective<br>
+> hy·​per | /ˈhī-pər/<br>
+> <br>
+> _1: excessive_<br>
+> _2: existing in a space of more than three dimensions_<br>
+> _3: bridging points within an entity (such as a database or network) nonsequentially_
+
+#### ACCELERANDO
+
+> noun<br>
 > <br>
 > ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/<br>
-> 1: a gradual increase in speed
+> _1: a gradual increase in speed_
 
 My name is Jeremiah, you may know me as Nullsleep.
 
