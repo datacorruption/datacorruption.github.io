@@ -16,10 +16,8 @@ permalink: /about
 > ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/<br>
 > _1: a gradual increase in speed_
 
-My name is Jeremiah, you may know me as Nullsleep.
+A space to document my work and thoughts outside of social media.
 
-This is a space to document my work and thoughts outside of social media. 
-
-MUSIC • GEAR • HIKING • SYSTEMS • REALITY • TACTICS
+This is me ↴
 
 ![nullsleep-photo](/assets/image/about/nullsleep-photo-promo.jpg)
