@@ -16,8 +16,8 @@ permalink: /about
 #### ACCELERANDO
 
 > noun<br>
-> <br>
 > ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/<br>
+> <br>
 > _1: a gradual increase in speed_
 
 My name is Jeremiah, you may know me as Nullsleep.
