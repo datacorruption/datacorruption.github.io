@@ -5,14 +5,14 @@ permalink: /about
 ---
 
 > #### HYPER
-> *adjective*  
+> _adjective_<br>
 > hy·​per | \ ˈhī-pər  \  
 > 1: excessive  
 > 2: existing in a space of more than three dimensions  
 > 3: bridging points within an entity (such as a database or network) nonsequentially
 
 > #### ACCELERANDO
-> *noun*  
+> _noun_<br>
 > ac·​ce·​le·​ran·​do | /äkˌseləˈrändō,äˌCHeləˈrändō/  
 > 1: a gradual increase in speed
 
